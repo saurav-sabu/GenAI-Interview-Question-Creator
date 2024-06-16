@@ -1,0 +1,30 @@
+Question: 1. What is the name of the plan created by leaders from 193 countries in 2015 to tackle global issues such as poverty, hunger, and climate change?
+Answer: The plan created by leaders from 193 countries in 2015 to tackle global issues such as poverty, hunger, and climate change is called the Sustainable Development Goals (SDGs).
+-----------------------------------------
+Question: 2. What organization is leading the effort to fulfill the Sustainable Development Goals (SDGs) by the year 2030?
+Answer: The United Nations Development Programme (UNDP) is one of the leading organizations working to fulfill the Sustainable Development Goals (SDGs) by the year 2030.
+-----------------------------------------
+Question: 3. What is the ambitious goal set by the United Nations Development Programme (UNDP) to be achieved by 2030?
+Answer: The ambitious goal set by the United Nations Development Programme (UNDP) to be achieved by 2030 is to end extreme poverty in all forms.
+-----------------------------------------
+Question: 4. How many people around the world still live on less than $1.25 a day, according to the text?
+Answer: More than 800 million people around the world still live on less than $1.25 a day, according to the text.
+-----------------------------------------
+Question: 5. What are some of the key components of the goal to end hunger and achieve food security by 2030?
+Answer: Some key components of the goal to end hunger and achieve food security by 2030 include promoting sustainable agriculture, supporting small farmers, ensuring access to sufficient and nutritious food year-round, and addressing the nutritional needs of vulnerable populations.
+-----------------------------------------
+Question: 6. What progress has been made in terms of child mortality and maternal mortality in the years leading up to the SDGs?
+Answer: In the 25 years leading up to the Sustainable Development Goals (SDGs), there was significant progress made in terms of child mortality and maternal mortality. Preventable child deaths dropped by more than half, and maternal mortality also decreased by almost as much during that time. However, some numbers, like the fact that 6 million children die every year before their fifth birthday, remain tragically high. The SDGs aim to build on these achievements to further reduce child and maternal mortality rates.
+-----------------------------------------
+Question: 7. What are some of the challenges that prevent many children around the world from accessing education?
+Answer: Some of the challenges that prevent many children around the world from accessing education include poverty, armed conflict, and emergencies. Children from the poorest households are four times more likely to be out of school than those from the richest households. Additionally, discrimination, lack of infrastructure, and gender inequalities also contribute to hindering access to education for many children.
+-----------------------------------------
+Question: 8. What is the total enrollment rate in developing regions for primary education as of recent years?
+Answer: The total enrollment rate in developing regions for primary education has reached 91%.
+-----------------------------------------
+Question: 9. How does the text emphasize the importance of health coverage and access to medicines and vaccines for all individuals?
+Answer: The text emphasizes the importance of health coverage and access to medicines and vaccines for all individuals by highlighting the significant progress made in reducing preventable child deaths and maternal mortality rates. It also mentions the ongoing challenges, such as child mortality and AIDS being the leading cause of death for adolescents in certain regions, underscoring the need for continued efforts to ensure everyone has access to safe and effective healthcare.
+-----------------------------------------
+Question: 10. How does the text highlight the need for promoting sustainable agriculture and supporting small farmers in the effort to end hunger and malnutrition?
+Answer: The text emphasizes the importance of promoting sustainable agriculture and supporting small farmers in the effort to end hunger and malnutrition by stating that many countries have made progress in meeting the nutritional needs of their vulnerable populations. It also mentions that to achieve the goal of ending hunger and malnutrition, actions such as promoting sustainable agriculture and supporting small farmers are necessary. This highlights the need for sustainable agricultural practices and support for small-scale farmers to ensure food security and improved nutrition for all.
+-----------------------------------------
