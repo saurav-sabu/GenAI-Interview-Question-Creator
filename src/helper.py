@@ -1,4 +1,4 @@
-from langchain.document_loaders import PyPDFDirectoryLoader
+from langchain.document_loaders import PyPDFLoader
 from langchain.docstore.document import Document
 from langchain.text_splitter import TokenTextSplitter
 from langchain.chains.summarize import load_summarize_chain
@@ -10,7 +10,7 @@ from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
 
-from prompt import *
+from src.prompt import *
 
 from dotenv import load_dotenv
 import os
@@ -23,7 +23,7 @@ os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 def file_processing(file_path):
 
-    loader = PyPDFDirectoryLoader(file_path)
+    loader = PyPDFLoader(file_path)
     data = loader.load()
 
     question_data = ""
@@ -85,13 +85,15 @@ def initialize_llm_pipeline(file_path):
 
     query = query.split("\n")
 
+    filtered_ques_list = [element for element in query if element.endswith('?') or element.endswith('.')]
+
     answer_chain = RetrievalQA.from_chain_type(
     llm = llm_answer,
     chain_type="stuff",
     retriever = vector_store.as_retriever()
     )
 
-    return answer_chain, query
+    return answer_chain, filtered_ques_list
 
 
 
